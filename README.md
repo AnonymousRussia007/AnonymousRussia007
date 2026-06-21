@@ -1,14 +1,20 @@
-# Привет, я Джамал 👋
+<h1 align="center">Привет, я Джамал 👋</h1>
 
-## Junior System Analyst
+<h3 align="center">Junior System Analyst</h3>
 
-Системный анализ · требования · процессы · данные · интеграции
+<p align="center">
+  Системный анализ · требования · процессы · данные · интеграции
+</p>
 
-![System Analysis](https://img.shields.io/badge/System_Analysis-233554?style=flat-square)
-![Requirements](https://img.shields.io/badge/Requirements-2E4A6B?style=flat-square)
-![BPMN](https://img.shields.io/badge/BPMN-365C7D?style=flat-square)
-![REST API](https://img.shields.io/badge/REST_API-3D6C87?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-4A7A8C?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Analysis-233554?style=flat-square" alt="Системный анализ">
+  <img src="https://img.shields.io/badge/Requirements-2E4A6B?style=flat-square" alt="Требования">
+  <img src="https://img.shields.io/badge/BPMN-365C7D?style=flat-square" alt="BPMN">
+  <img src="https://img.shields.io/badge/REST_API-3D6C87?style=flat-square" alt="REST API">
+  <img src="https://img.shields.io/badge/SQL-4A7A8C?style=flat-square" alt="SQL">
+</p>
+
+---
 
 ## Обо мне
 
